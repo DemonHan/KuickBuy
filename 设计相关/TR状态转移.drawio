@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T06:46:24.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="NWBppBMB8awJjeNQTxeH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T06:47:23.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="77PBsThYv-vOeN-a2KHc" type="github">
   <diagram id="GGh0PMK7TENtvQgCUDVG" name="第 1 页">
     <mxGraphModel dx="724" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="650" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIEWy0c5TQ75hRiFOTAF-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="30" height="30" as="geometry" />
+          <mxGeometry x="780" y="200" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIEWy0c5TQ75hRiFOTAF-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SIEWy0c5TQ75hRiFOTAF-19" target="SIEWy0c5TQ75hRiFOTAF-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,7 +93,7 @@
           <mxGeometry x="200" y="125" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIEWy0c5TQ75hRiFOTAF-34" value="解析成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="294" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIEWy0c5TQ75hRiFOTAF-35" value="审核通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="180" width="70" height="30" as="geometry" />
@@ -192,10 +192,13 @@
           <mxGeometry x="390" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIEWy0c5TQ75hRiFOTAF-69" value="版本失效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="155" width="70" height="30" as="geometry" />
+          <mxGeometry x="680" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIEWy0c5TQ75hRiFOTAF-71" value="结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="485" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIEWy0c5TQ75hRiFOTAF-73" value="COC完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="175" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
