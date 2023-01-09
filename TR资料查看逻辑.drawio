@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T09:27:48.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="uKvPYz5hAC1y9HqnVIWr" type="github"><diagram id="4aFHvbN-wYFQhMm2i6Lo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-09T09:36:26.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="32fUfyFSbvHbb428sFES" type="github">
+  <diagram id="QIkwOzNB6M0f4t_PPhL7" name="第 1 页">
+    <mxGraphModel dx="724" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-1" target="0HEnXtZ3vxemynHF3SeP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-2" target="0HEnXtZ3vxemynHF3SeP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-2" value="查询手册目录中某一DM的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-4" target="0HEnXtZ3vxemynHF3SeP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-4" target="0HEnXtZ3vxemynHF3SeP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-4" value="判断DM&lt;br&gt;是否与之对应的TR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="230" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-6" target="0HEnXtZ3vxemynHF3SeP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-6" target="0HEnXtZ3vxemynHF3SeP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-6" value="根据目录中DMC的标识建立DMC标识与之对应的实体HTML文件的联系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="430" />
+              <mxPoint x="280" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-8" value="根据TR中的PDF或者HTML，建立该DM与实体展示文件的联系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="325" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-11" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="315" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-12" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HEnXtZ3vxemynHF3SeP-13" target="0HEnXtZ3vxemynHF3SeP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-13" value="返回该DM的实体数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0HEnXtZ3vxemynHF3SeP-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
