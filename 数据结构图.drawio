@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T05:20:52.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.13" etag="2AH3eSHn1Wa1qt-EAHUc" type="github"><diagram name="第 1 页" id="YD2b2TV1Dep_N7JKMfjo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-06T05:28:20.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DLbf3IrbaU74ZcAemb85" version="20.8.13" type="github">
+  <diagram name="第 1 页" id="YD2b2TV1Dep_N7JKMfjo">
+    <mxGraphModel dx="875" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="21e_Z7FauKreUBpebRIy-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-1" value="手册信息表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-2" value="资产表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-3" value="手册索引" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-4" value="任务表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-5" value="TR信息表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-6" value="手册COC表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-12" value="SNS目录结构" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-13" value="PM目录结构" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-16" value="XML信息表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-18" value="图片信息表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-23" value="插页关联表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-26" value="插页信息表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-30" value="手相信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-32" value="手册关联信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-33" value="备注信息表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="205" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_Z7FauKreUBpebRIy-34" value="问题反馈表" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#b5b0b0;" vertex="1" parent="1">
+          <mxGeometry x="851" y="205" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
