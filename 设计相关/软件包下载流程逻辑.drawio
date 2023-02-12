@@ -1,1 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T15:02:46.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.16" etag="itZxffruBz9u1-qX8leX" type="github"><diagram name="第 1 页" id="JHcjJYesF8mNmM07IcIM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-12T15:12:47.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SlTKCbdfIimM_8p5hcoe" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="JHcjJYesF8mNmM07IcIM">
+    <mxGraphModel dx="600" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-2" value="资料管理模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="52Ru-gQL-jYEZIWns6aN-2">
+          <mxGeometry x="45" y="90" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-25" value="调用下载接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="52Ru-gQL-jYEZIWns6aN-2">
+          <mxGeometry x="-55" y="85" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="140" />
+              <mxPoint x="240" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-4" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-12" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-35" value="返回文件流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="52Ru-gQL-jYEZIWns6aN-12">
+          <mxGeometry x="-55" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-14" value="文件存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="52Ru-gQL-jYEZIWns6aN-14">
+          <mxGeometry x="45" y="190" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-18" value="点击下载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-19" value="浏览器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="52Ru-gQL-jYEZIWns6aN-19">
+          <mxGeometry x="44" y="60" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="220" />
+              <mxPoint x="550" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="565" y="160" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.068;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-10" target="52Ru-gQL-jYEZIWns6aN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="180" />
+              <mxPoint x="450" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-28" value="根据软件包ID查询&lt;br&gt;所在文件存储地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="145" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-30" value="返回地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-10" target="52Ru-gQL-jYEZIWns6aN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="260" />
+              <mxPoint x="490" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-33" value="根据地址读取文件流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="230" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.333;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-15" target="52Ru-gQL-jYEZIWns6aN-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="297" />
+              <mxPoint x="650" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52Ru-gQL-jYEZIWns6aN-10" target="52Ru-gQL-jYEZIWns6aN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="310" />
+              <mxPoint x="320" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52Ru-gQL-jYEZIWns6aN-37" value="返回文件流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
