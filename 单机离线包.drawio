@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T07:47:37.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VTndMrE3vDv5aJMo72Av" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:51:03.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vNF6TUYj_EbtkExDHD5B" version="20.8.23" type="github">
   <diagram name="第 1 页" id="p6MhWNOn5XpagDBgtA7_">
     <mxGraphModel dx="600" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,33 @@
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-5" value="判断是否为全量包下载" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="220" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IOFlgF2U16kbHjgSP1Hr-8" value="下载离线包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-8" target="IOFlgF2U16kbHjgSP1Hr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-8" value="查询上一个版本打包时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-11" target="IOFlgF2U16kbHjgSP1Hr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-11" value="依据两个版本之间的时间跨度，查询此时间跨内的离线包数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-13" target="IOFlgF2U16kbHjgSP1Hr-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-13" value="将所有数据写入压缩中并返回文件流到客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
