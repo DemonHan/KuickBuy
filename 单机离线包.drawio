@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T07:55:41.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WMUeNSbXfU3mvSlUwOJe" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:55:47.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZHKtMc_ZAD_aCPxaPr7o" version="20.8.23" type="github">
   <diagram name="第 1 页" id="p6MhWNOn5XpagDBgtA7_">
     <mxGraphModel dx="600" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,13 +40,8 @@
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-11" value="依据两个版本之间的时间跨度，查询此时间跨内的离线包数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOFlgF2U16kbHjgSP1Hr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-13" target="IOFlgF2U16kbHjgSP1Hr-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="225" y="520" />
-              <mxPoint x="225" y="520" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-13" target="IOFlgF2U16kbHjgSP1Hr-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-13" value="将所有数据写入压缩中并返回文件流到客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="430" width="110" height="60" as="geometry" />
