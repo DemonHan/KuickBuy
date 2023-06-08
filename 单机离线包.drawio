@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T07:54:47.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RAuPGTWN0Ysvmf_dV8cY" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:55:41.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WMUeNSbXfU3mvSlUwOJe" version="20.8.23" type="github">
   <diagram name="第 1 页" id="p6MhWNOn5XpagDBgtA7_">
     <mxGraphModel dx="600" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,26 +34,30 @@
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-10" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="220" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOFlgF2U16kbHjgSP1Hr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-11" target="IOFlgF2U16kbHjgSP1Hr-13">
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-11" target="IOFlgF2U16kbHjgSP1Hr-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-11" value="依据两个版本之间的时间跨度，查询此时间跨内的离线包数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOFlgF2U16kbHjgSP1Hr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-13" target="IOFlgF2U16kbHjgSP1Hr-15">
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-13" target="IOFlgF2U16kbHjgSP1Hr-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="95" y="540" />
+              <mxPoint x="225" y="520" />
+              <mxPoint x="225" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-13" value="将所有数据写入压缩中并返回文件流到客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="110" height="60" as="geometry" />
+          <mxGeometry x="185" y="430" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="545" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IOFlgF2U16kbHjgSP1Hr-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOFlgF2U16kbHjgSP1Hr-17" target="IOFlgF2U16kbHjgSP1Hr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IOFlgF2U16kbHjgSP1Hr-17" value="查询此手册的所有数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="320" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IOFlgF2U16kbHjgSP1Hr-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
