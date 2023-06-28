@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:15:10.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GTEZoBPLZya1Jc8mh2Ez" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:19:30.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7cD8nFRsLpMMyyhZFRKy" version="21.5.0" type="github">
   <diagram name="第 1 页" id="98vNd_yMc-9a7zlmiuS-">
-    <mxGraphModel dx="875" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,8 +43,20 @@
         <mxCell id="wvW1MQ88o7CS_0m5E93--14" value="IOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wvW1MQ88o7CS_0m5E93--15" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
+        <mxCell id="wvW1MQ88o7CS_0m5E93--15" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="123" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="123" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--18" value="VPN网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="250" y="128" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--19" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="370" y="128" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--20" value="Spring Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="499" y="128" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
