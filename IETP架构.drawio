@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:55:23.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="akBSEmyc9FZFyLykbWSl" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:55:54.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Trko3N8LjZMYBUr0FpFw" version="21.5.0" type="github">
   <diagram name="第 1 页" id="98vNd_yMc-9a7zlmiuS-">
     <mxGraphModel dx="832" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,8 +133,17 @@
         <mxCell id="wvW1MQ88o7CS_0m5E93--52" value="服务注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="592" y="271" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wvW1MQ88o7CS_0m5E93--53" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+        <mxCell id="wvW1MQ88o7CS_0m5E93--53" value="JWT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
           <mxGeometry x="583" y="300" width="80" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="565" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--55" value="批量任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="341" width="60" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--56" value="Elastic Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="583" y="370" width="80" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
