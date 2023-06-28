@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:35:06.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GjuKPTPwSojgt8yDyOm4" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:40:32.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0cQjIV6XE4VtXVTCgBui" version="21.5.0" type="github">
   <diagram name="第 1 页" id="98vNd_yMc-9a7zlmiuS-">
-    <mxGraphModel dx="832" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,14 +94,23 @@
         <mxCell id="wvW1MQ88o7CS_0m5E93--35" value="服务保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wvW1MQ88o7CS_0m5E93--36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
-          <mxGeometry x="185" y="310" width="75" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wvW1MQ88o7CS_0m5E93--37" value="grafana&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
-          <mxGeometry x="185" y="310" width="75" height="30" as="geometry" />
+          <mxGeometry x="185" y="310" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wvW1MQ88o7CS_0m5E93--38" value="prometheus&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
-          <mxGeometry x="185" y="350" width="75" height="30" as="geometry" />
+          <mxGeometry x="185" y="350" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--39" value="工卡服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="304" y="280" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--40" value="手册服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="425" y="280" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--41" value="系统管理服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="304" y="310" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wvW1MQ88o7CS_0m5E93--42" value="搜索服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDEB8B;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="105" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
