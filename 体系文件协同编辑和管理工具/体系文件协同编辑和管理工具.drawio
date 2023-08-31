@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T10:36:05.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Acx_FAvMlJUcnuwMyuYK" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T10:39:07.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WiEs1IXXzvKB5ulsPTnp" version="21.7.1" type="github">
   <diagram name="第 1 页" id="Nc7laCv201RKckCkuLWc">
-    <mxGraphModel dx="724" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="260" width="410" height="160" as="geometry" />
+          <mxGeometry x="190" y="260" width="410" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-2" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="100" y="60" width="80" height="30" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="367.5" y="435" width="77.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-108" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="206.88" y="290" width="108.75" height="110" as="geometry" />
+          <mxGeometry x="270.5" y="280" width="108.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-52" value="Mybatis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="480" width="60" height="20" as="geometry" />
@@ -134,16 +134,28 @@
           <mxGeometry x="469.38" y="435" width="77.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-31" value="结构化编辑引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.13" y="315" width="87.5" height="20" as="geometry" />
+          <mxGeometry x="282.75" y="305" width="87.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6IqZSw4WVSfgQWYe3aXY-109" value="编辑器服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="223.13" y="290" width="77.5" height="30" as="geometry" />
+        <mxCell id="6IqZSw4WVSfgQWYe3aXY-109" value="编辑器服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="283.62" y="280" width="83.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-110" value="转换引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.13" y="343" width="87.5" height="20" as="geometry" />
+          <mxGeometry x="282.75" y="333" width="87.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6IqZSw4WVSfgQWYe3aXY-111" value="模版配置引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.13" y="370" width="87.5" height="20" as="geometry" />
+          <mxGeometry x="282.75" y="360" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6IqZSw4WVSfgQWYe3aXY-114" value="发布服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412.37" y="280" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6IqZSw4WVSfgQWYe3aXY-115" value="版本管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6IqZSw4WVSfgQWYe3aXY-116" value="任务管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="310" width="87.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6IqZSw4WVSfgQWYe3aXY-117" value="协调管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412.37" y="370" width="87.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
