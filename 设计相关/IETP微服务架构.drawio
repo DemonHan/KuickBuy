@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T02:45:40.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aYDprawBSxVvuzWysMSQ" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T02:47:38.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="r1I_7tZI7_n6pgVXbxrV" version="22.1.2" type="github">
   <diagram name="第 1 页" id="wLxkc6e6fOpIKRaMqsK5">
     <mxGraphModel dx="2227" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="233" width="930" height="387" as="geometry" />
         </mxCell>
         <mxCell id="Ps7_JPFViT01FS_im7Fh-44" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FFB570;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="233" width="160" height="397" as="geometry" />
+          <mxGeometry x="1220" y="180" width="160" height="440" as="geometry" />
         </mxCell>
         <mxCell id="Ps7_JPFViT01FS_im7Fh-15" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-40" y="260" width="140" height="195" as="geometry" />
@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ps7_JPFViT01FS_im7Fh-41" value="&lt;font color=&quot;#ffffff&quot;&gt;Minio&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="292.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="1256" y="194" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ps7_JPFViT01FS_im7Fh-42" value="&lt;font color=&quot;#ffffff&quot;&gt;Redis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="1256" y="281.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tPTSpl8lQeCxmytrqOzf-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="190" y="260" width="150" height="220" as="geometry" />
@@ -248,7 +248,7 @@
           <mxGeometry x="415" y="569.0909090909091" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPTSpl8lQeCxmytrqOzf-82" value="文件对象存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1225" y="342.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="1251" y="243.75" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPTSpl8lQeCxmytrqOzf-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ps7_JPFViT01FS_im7Fh-8" target="tPTSpl8lQeCxmytrqOzf-6">
           <mxGeometry relative="1" as="geometry" />
@@ -257,7 +257,28 @@
           <mxGeometry x="680" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPTSpl8lQeCxmytrqOzf-85" value="数据缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1245" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="1271" y="331.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-86" value="&lt;font color=&quot;#ffffff&quot;&gt;Mysql&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1256" y="371.25" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-87" value="结构化数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1256" y="421.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-88" value="&lt;font color=&quot;#ffffff&quot;&gt;ElasticSearch&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1256" y="452.5" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-89" value="数据检索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1266" y="501.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-90" value="&lt;font color=&quot;#ffffff&quot;&gt;mongo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1256" y="536.36" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-91" value="NoSQL数据存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1241" y="585.11" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPTSpl8lQeCxmytrqOzf-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tPTSpl8lQeCxmytrqOzf-6" target="Ps7_JPFViT01FS_im7Fh-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
