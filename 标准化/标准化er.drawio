@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T06:00:09.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CkR_zCcTqDI2-SsxntFt" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T06:02:10.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QBHePcxDhFpPu7O7KDg0" version="24.2.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="1657" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -150,9 +150,9 @@
             <mxPoint x="370" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXjHTsPgzsVpZC67pU7m-18" value="N：1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-17">
+        <mxCell id="DXjHTsPgzsVpZC67pU7m-18" value="N：1&lt;div&gt;一个标记委&lt;/div&gt;&lt;div&gt;对多个委员&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-17">
           <mxGeometry x="-0.2564" relative="1" as="geometry">
-            <mxPoint x="-1" y="-20" as="offset" />
+            <mxPoint x="-24" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DXjHTsPgzsVpZC67pU7m-19" value="stp_expert_standard_relation&#xa;(企业标准树关联标计委树)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
@@ -208,7 +208,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXjHTsPgzsVpZC67pU7m-35" value="1：N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-34">
+        <mxCell id="DXjHTsPgzsVpZC67pU7m-35" value="1：N&lt;div&gt;一个标记委&lt;/div&gt;&lt;div&gt;对多个体系框架&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-34">
           <mxGeometry x="-0.2564" relative="1" as="geometry">
             <mxPoint x="-30" y="19" as="offset" />
           </mxGeometry>
@@ -386,7 +386,7 @@
             <mxPoint x="660" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXjHTsPgzsVpZC67pU7m-86" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-85">
+        <mxCell id="DXjHTsPgzsVpZC67pU7m-86" value="1:N&lt;div&gt;一个标技委对多个&lt;/div&gt;&lt;div&gt;投票成员&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-85">
           <mxGeometry x="-0.2564" relative="1" as="geometry">
             <mxPoint x="-1" y="-20" as="offset" />
           </mxGeometry>
