@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T09:48:38.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="K4OaFR18gqWMlCcUpEpT" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T09:49:11.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="G7LLfXyAMdT6by1mc6K3" version="24.2.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2935" dy="1755" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1567,7 +1567,7 @@
             <mxPoint x="-795" y="2820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DXjHTsPgzsVpZC67pU7m-364" value="1：N&lt;div&gt;一个标准可以有多个后台数据，通过&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-363">
+        <mxCell id="DXjHTsPgzsVpZC67pU7m-364" value="1：N&lt;div&gt;一个标准可以有多个后台数据，&lt;/div&gt;&lt;div&gt;通过标准编号及版本进行关联&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DXjHTsPgzsVpZC67pU7m-363">
           <mxGeometry x="-0.2564" relative="1" as="geometry">
             <mxPoint x="-1" y="-20" as="offset" />
           </mxGeometry>
