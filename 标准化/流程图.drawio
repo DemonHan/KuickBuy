@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T07:04:14.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PXkPxwUk_yRZ5DdebDpV" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T07:05:04.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="B45Z_Ce4bdbakyMxJYyC" version="24.2.0" type="github">
   <diagram name="第 1 页" id="Eqa_ZWC-rRwsL7rnyD2I">
     <mxGraphModel dx="1932" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,34 +292,28 @@
         <mxCell id="sLWthoAmwnwLxsoVaZzo-104" value="获取&lt;div&gt;standardEstablishInfo与&lt;/div&gt;&lt;div&gt;standardProcessBackInfo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-36" y="2844" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-106" target="sLWthoAmwnwLxsoVaZzo-108">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-106" value="添加标记委下的信息&lt;div&gt;并生成意见正经任务&lt;br&gt;&lt;div&gt;（QPL的不做处理）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37" y="2950" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-108" target="sLWthoAmwnwLxsoVaZzo-113">
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-106" target="sLWthoAmwnwLxsoVaZzo-113">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="44" y="3130" as="targetPoint" />
+            <mxPoint x="43.47368421052647" y="3040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-108" value="更新&lt;div&gt;standardProcessBackInfo状态&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-36.5" y="3040" width="160" height="60" as="geometry" />
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-106" value="判断是否可以进入下一节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-37" y="2950" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-110" target="sLWthoAmwnwLxsoVaZzo-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-110" value="审批流程任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-37" y="3240" width="160" height="60" as="geometry" />
+          <mxGeometry x="-36.25" y="3152" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-111" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8" y="3330" width="70" height="40" as="geometry" />
+          <mxGeometry x="8.75" y="3242" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-113" target="sLWthoAmwnwLxsoVaZzo-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-113" value="添加审批意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-36.5" y="3138" width="160" height="60" as="geometry" />
+          <mxGeometry x="-35.75" y="3050" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
