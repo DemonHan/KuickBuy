@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T05:44:46.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cPtbQ0QRf9J0-MVQWp1g" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T05:47:58.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vQPJNRODCad3-4K1aHaL" version="24.2.0" type="github">
   <diagram name="第 1 页" id="Eqa_ZWC-rRwsL7rnyD2I">
-    <mxGraphModel dx="2117" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,11 +36,21 @@
         <mxCell id="sLWthoAmwnwLxsoVaZzo-10" value="&lt;div&gt;如果是QPL类型标准&lt;/div&gt;&lt;div&gt;1、做QPL编号判断&lt;/div&gt;&lt;div&gt;2、更新数据到编辑器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="590" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-14" target="sLWthoAmwnwLxsoVaZzo-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-14" target="sLWthoAmwnwLxsoVaZzo-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-35" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sLWthoAmwnwLxsoVaZzo-17">
+          <mxGeometry x="-0.0467" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-14" value="是否首次启动制定流程" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="700" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-19" value="是否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="840" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
