@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:14:01.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mS235vSqXjekBR4a7XTK" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:14:22.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NAzKogkxD_v7icJh-U7n" version="24.2.0" type="github">
   <diagram name="第 1 页" id="Eqa_ZWC-rRwsL7rnyD2I">
     <mxGraphModel dx="1932" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="sLWthoAmwnwLxsoVaZzo-50" value="创建作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="765" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-53" value="生成standardProcessBackInfo&amp;nbsp;标准预存储类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-53" value="生成standardProcessBackInfo&amp;nbsp;标准预存储，并转换相应值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="736.25" y="510" width="177.5" height="60" as="geometry" />
         </mxCell>
       </root>
