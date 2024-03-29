@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:01:49.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vI6h6JbSX1qn2d61zmna" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:03:15.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A5nmOObKtVOqv7S8j4gg" version="24.2.0" type="github">
   <diagram name="第 1 页" id="Eqa_ZWC-rRwsL7rnyD2I">
     <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,11 +64,14 @@
         <mxCell id="sLWthoAmwnwLxsoVaZzo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-25" target="sLWthoAmwnwLxsoVaZzo-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-25" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b&gt;活动记录&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-25" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b&gt;添加标记委活动记录&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165.5" y="1069" width="251" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-27" value="&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b&gt;活动记录&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-27" value="&lt;div&gt;设置 QPLFlag与standardProcessBackInfo的id&lt;/div&gt;更新&lt;span style=&quot;text-wrap: nowrap; font-weight: 700;&quot;&gt;stp_standard_establish_info&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap; padding: 0px; margin: 0px; font-weight: 700;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; font-weight: 700;&quot;&gt;(标准制定)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165.5" y="1160" width="251" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-29" value="更新&lt;span style=&quot;text-wrap: nowrap; font-weight: 700;&quot;&gt;stp_standard_establish_info&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap; padding: 0px; margin: 0px; font-weight: 700;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; font-weight: 700;&quot;&gt;(标准制定)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165.5" y="1270" width="251" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
