@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:55:55.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dVIZZwh_yXP2gj_Y5ddU" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:56:58.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5SIrILpjJEwBPJhbguBI" version="24.2.0" type="github">
   <diagram name="第 1 页" id="Eqa_ZWC-rRwsL7rnyD2I">
     <mxGraphModel dx="1932" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,12 +257,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-89" value="审批流程任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="2440" width="160" height="60" as="geometry" />
+          <mxGeometry x="409" y="2440" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-90" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="458.5" y="2530" width="70" height="40" as="geometry" />
+          <mxGeometry x="454" y="2530" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sLWthoAmwnwLxsoVaZzo-91" value="审批流程任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-91" target="sLWthoAmwnwLxsoVaZzo-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-91" value="添加审批意见" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="409.5" y="2338" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
