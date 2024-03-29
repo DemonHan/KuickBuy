@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T05:40:46.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LQXAEOoEGojs0sUTjGgH" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T05:43:23.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VZjJWq7n6aGSfxHfJNkg" version="24.2.0" type="github">
   <diagram name="第 1 页" id="Eqa_ZWC-rRwsL7rnyD2I">
     <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,20 @@
         <mxCell id="sLWthoAmwnwLxsoVaZzo-4" value="保存制定到&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;stp_standard_establish_info&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-weight: 700; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-weight: 700; text-wrap: nowrap;&quot;&gt;(标准制定)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="390" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-8" target="sLWthoAmwnwLxsoVaZzo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sLWthoAmwnwLxsoVaZzo-8" value="&lt;div&gt;如果是QPL类型标准&lt;/div&gt;&lt;div&gt;1、做QPL编号判断&lt;/div&gt;&lt;div&gt;2、更新数据到编辑器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="510" width="210" height="60" as="geometry" />
+          <mxGeometry x="10" y="490" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLWthoAmwnwLxsoVaZzo-10" target="sLWthoAmwnwLxsoVaZzo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-10" value="&lt;div&gt;如果是QPL类型标准&lt;/div&gt;&lt;div&gt;1、做QPL编号判断&lt;/div&gt;&lt;div&gt;2、更新数据到编辑器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="590" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sLWthoAmwnwLxsoVaZzo-12" value="&lt;div&gt;如果是QPL类型标准&lt;/div&gt;&lt;div&gt;1、做QPL编号判断&lt;/div&gt;&lt;div&gt;2、更新数据到编辑器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="700" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
