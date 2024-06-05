@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T08:48:06.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="29hgTbBRc1Hzr1I9XnyM" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T09:07:24.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="q_l8OyVXSaWvb2mdFKse" version="24.4.10" type="github">
   <diagram name="第 1 页" id="9EhVP8dWEAq6zw8ZGbTu">
-    <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="O57Rjo-vSnDpNgtuCUzZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O57Rjo-vSnDpNgtuCUzZ-16" target="O57Rjo-vSnDpNgtuCUzZ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O57Rjo-vSnDpNgtuCUzZ-16" value="csdb_dmrl_application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O57Rjo-vSnDpNgtuCUzZ-16" value="csdb_dmrl&amp;nbsp; v1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O57Rjo-vSnDpNgtuCUzZ-18" value="启动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -117,7 +117,7 @@
         <mxCell id="O57Rjo-vSnDpNgtuCUzZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O57Rjo-vSnDpNgtuCUzZ-30" target="O57Rjo-vSnDpNgtuCUzZ-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O57Rjo-vSnDpNgtuCUzZ-30" value="csdb_dmrl_application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O57Rjo-vSnDpNgtuCUzZ-30" value="csdb_dmrl&amp;nbsp; v2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="620" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O57Rjo-vSnDpNgtuCUzZ-32" value="启动&amp;nbsp;版本2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
