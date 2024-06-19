@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T07:10:23.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="g8L2InThR7S2YzqUl5Ek" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T07:10:34.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i39r-R7IsYjMn7InVL2h" version="24.5.3" type="github">
   <diagram name="第 1 页" id="zqUAOEaz19EFo88n6Xfu">
     <mxGraphModel dx="890" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="510" width="727" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="260" width="253" height="170" as="geometry" />
+          <mxGeometry x="70" y="260" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="724" height="50" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="377" y="260" width="417" height="170" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-32" value="业务服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="411" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="560" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-33" value="业务规则管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="411" y="300" width="100" height="30" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="674" y="380" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-48" value="能力支持" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="82" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-49" value="gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="190" width="724" height="50" as="geometry" />
