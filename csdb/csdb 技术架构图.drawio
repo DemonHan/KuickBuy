@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T07:39:40.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2pesd77FxNvlAXR31bFh" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T07:40:52.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Sw9LhPVHZOM7WFbzwDoL" version="24.5.3" type="github">
   <diagram name="第 1 页" id="zqUAOEaz19EFo88n6Xfu">
-    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="60" y="130" width="860" height="630" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88.75" y="630" width="810" height="100" as="geometry" />
+          <mxGeometry x="88.75" y="630" width="810" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-75" value="数据访问" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="640" width="201.75" height="80" as="geometry" />
+        <mxCell id="J7e16loEIpS3EIJHLEXg-75" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="174.13" y="640" width="201.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88.75" y="410" width="260" height="180" as="geometry" />
@@ -31,8 +31,8 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-18" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="104.75" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-19" value="Mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="214.75" y="645" width="60" height="60" as="geometry" />
+        <mxCell id="J7e16loEIpS3EIJHLEXg-19" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="198" y="660" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-20" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="432.75" y="645" width="60" height="60" as="geometry" />
@@ -40,8 +40,8 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-21" value="MinIO" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="648.75" y="645" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-22" value="Mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="304.75" y="645" width="60" height="60" as="geometry" />
+        <mxCell id="J7e16loEIpS3EIJHLEXg-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="292" y="660" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-23" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="522.75" y="645" width="60" height="60" as="geometry" />
@@ -174,6 +174,9 @@
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-74" value="CSDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7e16loEIpS3EIJHLEXg-77" value="Mysql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="645" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
