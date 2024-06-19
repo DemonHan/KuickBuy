@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T11:45:52.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LLK440YklKAzMadCQ8Kd" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T11:48:32.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FdenUIyEalsd2nVTNOJ2" version="24.5.5" type="github">
   <diagram name="第 1 页" id="CDN1awkTx7iHZSeHB25q">
-    <mxGraphModel dx="2062" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
             <mxPoint x="259" y="409.75" as="sourcePoint" />
             <mxPoint x="309" y="359.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="199" y="280" />
+              <mxPoint x="199" y="251" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -32,10 +32,10 @@
           <mxGeometry x="-155" y="375.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpanblVg95gVwMK05n6i-10" value="网关集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="65" y="310" width="80" height="30" as="geometry" />
+          <mxGeometry x="65" y="300.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpanblVg95gVwMK05n6i-11" value="nacos集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="449" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="449" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YpanblVg95gVwMK05n6i-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YpanblVg95gVwMK05n6i-13" target="YpanblVg95gVwMK05n6i-1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="389" y="477" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpanblVg95gVwMK05n6i-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="339" y="149.75" width="320" height="175" as="geometry" />
+          <mxGeometry x="339" y="119.75" width="320" height="175" as="geometry" />
         </mxCell>
         <mxCell id="YpanblVg95gVwMK05n6i-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FFB570;strokeWidth=2;" vertex="1" parent="YpanblVg95gVwMK05n6i-17">
           <mxGeometry width="320" height="175" as="geometry" />
@@ -207,6 +207,15 @@
         </mxCell>
         <mxCell id="YpanblVg95gVwMK05n6i-58" value="&lt;font color=&quot;#ffffff&quot;&gt;Redis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="869" y="448.75" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YpanblVg95gVwMK05n6i-60" value="服务注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YpanblVg95gVwMK05n6i-61" value="鉴权认证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="264" y="374.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YpanblVg95gVwMK05n6i-62" value="服务注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
