@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T06:40:33.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RFFyyxCTGho-03qTHvKA" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T06:41:17.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cFltjVUq64yW_Tsjj2Q5" version="24.5.3" type="github">
   <diagram name="第 1 页" id="zqUAOEaz19EFo88n6Xfu">
     <mxGraphModel dx="1075" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,8 +94,11 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-42" value="数据模块验证管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="360" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-44" value="数据模块验证管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J7e16loEIpS3EIJHLEXg-44" value="技术出版物质量管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7e16loEIpS3EIJHLEXg-45" value="技术出版物验证管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
