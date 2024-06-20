@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T02:05:55.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mILeqGaK2t2c-K3JYNIw" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T02:06:26.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ITN-BGHMNQGLjjm6H9Nn" version="24.5.5" type="github">
   <diagram name="第 1 页" id="kS-1hj-qkySGCemXJleW">
     <mxGraphModel dx="1110" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="580" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gh9V2MWCcrk2eI33BgVC-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="430" width="730" height="180" as="geometry" />
+          <mxGeometry x="70" y="430" width="730" height="220" as="geometry" />
         </mxCell>
         <mxCell id="gh9V2MWCcrk2eI33BgVC-14" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="105" y="433" width="60" height="30" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="gh9V2MWCcrk2eI33BgVC-23" value="业务配置" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="550" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gh9V2MWCcrk2eI33BgVC-24" value="数据模块验证管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="600" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
