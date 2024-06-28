@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T09:41:49.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_ezrvu4WFjm8SZbFAKGv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T09:54:35.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OtQdK0G948Y_4mFTcrza" version="24.6.4" type="github">
   <diagram name="第 1 页" id="oBcTDAW4pHkjtFFDSPgj">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,14 +46,26 @@
         <mxCell id="rCB-V95ukldK7txEn3Un-4" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="460" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rCB-V95ukldK7txEn3Un-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463.5" y="310" as="sourcePoint" />
+            <mxPoint x="463.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-12" value="文档差异对模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="90" width="105" height="40" as="geometry" />
+          <mxGeometry x="430" y="270" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rCB-V95ukldK7txEn3Un-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497.5" y="360" as="sourcePoint" />
+            <mxPoint x="497.5" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-13" value="文档存储模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="180" width="105" height="40" as="geometry" />
+          <mxGeometry x="430" y="360" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-14" value="文档展示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="105" height="40" as="geometry" />
+          <mxGeometry x="580" y="270" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
