@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T09:59:50.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8eWGeqJhRj85ZowCwbVO" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T10:43:42.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="To2jEOCc4tsGzEkIH8YE" version="24.6.4" type="github">
   <diagram name="第 1 页" id="oBcTDAW4pHkjtFFDSPgj">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,15 @@
             <mxPoint x="414" y="230" as="sourcePoint" />
             <mxPoint x="764" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rCB-V95ukldK7txEn3Un-25" value="用户操作查看" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rCB-V95ukldK7txEn3Un-26" value="数据传输" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rCB-V95ukldK7txEn3Un-27" value="数据存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
