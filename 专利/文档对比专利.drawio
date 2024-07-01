@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T00:56:49.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KPuxE5Rtstr4TCEMIxmj" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T01:00:05.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uvzBe1DkmUaQ828kQLic" version="24.6.4" type="github">
   <diagram name="第 1 页" id="oBcTDAW4pHkjtFFDSPgj">
     <mxGraphModel dx="2062" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
           <mxGeometry x="11.25" y="61.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-170" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-126" y="1831.25" width="145.5" height="95" as="geometry" />
+          <mxGeometry x="-126" y="1831.25" width="150" height="95" as="geometry" />
         </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-171" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rCB-V95ukldK7txEn3Un-170">
           <mxGeometry x="4.5" width="141" height="95" as="geometry" />
@@ -339,10 +339,10 @@
         <mxCell id="rCB-V95ukldK7txEn3Un-173" value="blockId：4964e423···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-170">
           <mxGeometry y="2.5" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCB-V95ukldK7txEn3Un-174" value="blockType：chapter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-170">
-          <mxGeometry x="8.25" y="32.5" width="120" height="30" as="geometry" />
+        <mxCell id="rCB-V95ukldK7txEn3Un-174" value="blockType：bulletData" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-170">
+          <mxGeometry x="8.25" y="32.5" width="141.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCB-V95ukldK7txEn3Un-175" value="textData：说明文档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-170">
+        <mxCell id="rCB-V95ukldK7txEn3Un-175" value="textData：2、条目2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-170">
           <mxGeometry x="11.25" y="61.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-183" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -483,10 +483,10 @@
         <mxCell id="rCB-V95ukldK7txEn3Un-238" value="blockId：4964e423···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-235">
           <mxGeometry y="2.5" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCB-V95ukldK7txEn3Un-239" value="blockType：chapter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-235">
-          <mxGeometry x="8.25" y="32.5" width="120" height="30" as="geometry" />
+        <mxCell id="rCB-V95ukldK7txEn3Un-239" value="blockType：bulletData" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-235">
+          <mxGeometry x="8.25" y="32.5" width="131.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCB-V95ukldK7txEn3Un-240" value="textData：说明文档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-235">
+        <mxCell id="rCB-V95ukldK7txEn3Un-240" value="textData：1、条目1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-235">
           <mxGeometry x="11.25" y="61.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rCB-V95ukldK7txEn3Un-241" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rCB-V95ukldK7txEn3Un-233">
@@ -558,10 +558,10 @@
         <mxCell id="rCB-V95ukldK7txEn3Un-263" value="blockId：4964e423···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-260">
           <mxGeometry y="2.5" width="141" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCB-V95ukldK7txEn3Un-264" value="blockType：chapter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-260">
-          <mxGeometry x="8.25" y="32.5" width="120" height="30" as="geometry" />
+        <mxCell id="rCB-V95ukldK7txEn3Un-264" value="blockType：paraData" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-260">
+          <mxGeometry x="8.25" y="32.5" width="131.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCB-V95ukldK7txEn3Un-265" value="textData：说明文档" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-260">
+        <mxCell id="rCB-V95ukldK7txEn3Un-265" value="textData：此段落..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rCB-V95ukldK7txEn3Un-260">
           <mxGeometry x="11.25" y="61.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
