@@ -7,6 +7,12 @@
         <mxCell id="RavbF5pS_74pNPXXvLx0-1" value="Pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RavbF5pS_74pNPXXvLx0-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="220" as="sourcePoint" />
+            <mxPoint x="550" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
