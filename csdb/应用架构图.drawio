@@ -245,28 +245,28 @@
           <mxGeometry x="364.5" y="1479" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="561.25" y="1169" width="160" height="360" as="geometry" />
+          <mxGeometry x="533.25" y="1169" width="148.75" height="360" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-77" value="系统管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="600.5" y="1181" width="80" height="30" as="geometry" />
+          <mxGeometry x="563.5" y="1181" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-78" value="人员管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1216" width="100" height="30" as="geometry" />
+          <mxGeometry x="559" y="1216" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-79" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1266" width="100" height="30" as="geometry" />
+          <mxGeometry x="559" y="1266" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-80" value="字典管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1316" width="100" height="30" as="geometry" />
+          <mxGeometry x="559" y="1316" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-81" value="飞机管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1366" width="100" height="30" as="geometry" />
+          <mxGeometry x="559" y="1366" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-82" value="菜单管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1416" width="100" height="30" as="geometry" />
+          <mxGeometry x="559" y="1416" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-83" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1459" width="100" height="30" as="geometry" />
+          <mxGeometry x="559" y="1459" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hNEyw_A3VmkTXlXItFcU-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="1169" width="490" height="210" as="geometry" />
