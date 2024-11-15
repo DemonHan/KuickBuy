@@ -298,6 +298,9 @@
         <mxCell id="hNEyw_A3VmkTXlXItFcU-93" value="技术出版物验证管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="375.76" y="1097" width="105" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hNEyw_A3VmkTXlXItFcU-94" value="应用服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="251" y="952" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
