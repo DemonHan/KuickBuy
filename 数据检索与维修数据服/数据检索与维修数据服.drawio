@@ -254,7 +254,7 @@
           <mxGeometry x="858" y="282" width="92" height="28" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="180" width="130" height="710" as="geometry" />
+          <mxGeometry x="1270" y="180" width="160" height="710" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-112" value="服务治理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1280" y="200" width="90" height="30" as="geometry" />
@@ -263,22 +263,22 @@
           <mxGeometry x="1282" y="270" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-114" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="gah0NT_OzrAsNBO6tPTt-116">
-          <mxGeometry width="108" height="68" as="geometry" />
+          <mxGeometry x="14.5" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-115" value="seata" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="gah0NT_OzrAsNBO6tPTt-116">
-          <mxGeometry x="9" y="19" width="90" height="30" as="geometry" />
+          <mxGeometry x="23.5" y="19" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-117" value="nacos" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1281" y="369.5" width="108" height="68" as="geometry" />
+          <mxGeometry x="1295.5" y="369.5" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-118" value="skywalking" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="478" width="108" height="68" as="geometry" />
+          <mxGeometry x="1296.5" y="478" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-119" value="sprintboot&lt;div&gt;admin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="582" width="108" height="68" as="geometry" />
+          <mxGeometry x="1296.5" y="582" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-120" value="sentinel" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="672" width="108" height="68" as="geometry" />
+          <mxGeometry x="1296.5" y="672" width="108" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
