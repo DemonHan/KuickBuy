@@ -70,6 +70,9 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-22" value="图存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="695" y="780" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-23" value="索引数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="855" y="780" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
