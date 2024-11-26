@@ -67,6 +67,9 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="840" y="760" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-22" value="图存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="695" y="780" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
