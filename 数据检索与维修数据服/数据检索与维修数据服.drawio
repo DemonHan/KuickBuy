@@ -82,6 +82,12 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-26" value="系统管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1070" y="250" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1056" y="290" width="118" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-29" value="索引数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="312" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
