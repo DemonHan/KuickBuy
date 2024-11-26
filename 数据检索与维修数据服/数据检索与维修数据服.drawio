@@ -188,7 +188,7 @@
           <mxGeometry x="875" y="594.5" width="88" height="31" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="247" width="322.5" height="173" as="geometry" />
+          <mxGeometry x="347.5" y="250" width="322.5" height="167" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-76" value="数据查询服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="470" y="247" width="90" height="30" as="geometry" />
@@ -222,6 +222,36 @@
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-89" value="多模态查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="537" y="357.5" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="250" width="322.5" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-91" value="维修工卡数据服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="809.75" y="247" width="117.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="277" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-93" value="知识图谱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="287.5" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="279" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-95" value="增加检索&lt;div&gt;向量索引&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="889.5" y="289.5" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="347" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-97" value="精准查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="357.5" width="88" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-98" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="347" width="118" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-99" value="多模态查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="889.5" y="357.5" width="88" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
