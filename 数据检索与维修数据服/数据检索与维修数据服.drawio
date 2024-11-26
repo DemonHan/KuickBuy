@@ -253,6 +253,12 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-99" value="多模态查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="889.5" y="357.5" width="88" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="14.5" y="770" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-101" value="工卡数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="800" width="115" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
