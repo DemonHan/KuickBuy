@@ -127,6 +127,12 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-43" value="权限管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="gah0NT_OzrAsNBO6tPTt-41">
           <mxGeometry x="14" y="22" width="90" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349" y="360" width="411" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-45" value="数据检索" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="508" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
