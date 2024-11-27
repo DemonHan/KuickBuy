@@ -131,22 +131,40 @@
           <mxGeometry x="112.24" y="420" width="69.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="118.86" y="520" width="792.76" height="80" as="geometry" />
+          <mxGeometry x="118.86" y="530" width="792.76" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-69" value="数据提取" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="141.68" y="540" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="151.52" y="542.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-70" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="295.04" y="540" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="304.88" y="542.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-71" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="451.37" y="540" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="461.21" y="542.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-73" value="自动化标注" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="603.48" y="540" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="613.32" y="542.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-74" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="760" y="540" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="769.84" y="542.5" width="108.88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="117.48000000000002" y="450" width="792.76" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-79" value="数据提取" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150.14000000000001" y="462.5" width="108.88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-80" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="462.5" width="108.88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-81" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="459.83" y="462.5" width="108.88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-82" value="自动化标注" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="611.94" y="462.5" width="108.88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-83" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="768.46" y="462.5" width="108.88" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
