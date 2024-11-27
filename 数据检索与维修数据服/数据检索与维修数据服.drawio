@@ -211,23 +211,14 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-69" value="数据访问" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="872.5" y="558" width="98" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-105" value="数据可视化" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="358" y="170" width="118" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-106" value="数据可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="370.5" y="180.5" width="93" height="31" as="geometry" />
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-107" value="数据导出" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="522" y="170" width="118" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-107" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="612" y="168" width="118" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-108" value="数据导出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="625" y="180" width="92" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="845" y="168" width="118" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-110" value="数据接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="858" y="180" width="92" height="28" as="geometry" />
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-109" value="数据接口" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="708.5" y="170" width="118" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontStyle=1;fontSize=13;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1270" y="70" width="160" height="820" as="geometry" />
@@ -270,6 +261,9 @@
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-8" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="860" y="324" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzQhivooC-nuTEX-7UxS-9" value="数据检索" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="872.5" y="170" width="118" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
