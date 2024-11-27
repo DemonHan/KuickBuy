@@ -161,16 +161,7 @@
           <mxGeometry x="100" y="270" width="830" height="103" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-91" value="模型能力层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="130" y="280" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-92" value="LLM模型" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="182.24" y="310" width="147.76" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-93" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;语义检索模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="432.77" y="310" width="131.49" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-94" value="&lt;p style=&quot;margin-left:0cm;text-align:left;&lt;br/&gt;text-indent:21.0pt;mso-char-indent-count:2.0;mso-pagination:widow-orphan;&lt;br/&gt;mso-list:l0 level1 lfo1;vertical-align:middle&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体&quot;&gt;知识抽取模型&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="658.04" y="310" width="210" height="45" as="geometry" />
+          <mxGeometry x="127" y="272" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-95" value="&lt;font color=&quot;#ffffff&quot;&gt;网管层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#4175B1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="82" y="-105" width="850" height="50" as="geometry" />
@@ -249,6 +240,18 @@
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-118" value="数据配置" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="253.00000000000003" y="184" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-120" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118.86000000000001" y="297.5" width="792.76" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-92" value="LLM模型" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="182.24" y="310" width="147.76" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-93" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;语义检索模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="432.77" y="310" width="131.49" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-94" value="&lt;p style=&quot;margin-left:0cm;text-align:left;&lt;br/&gt;text-indent:21.0pt;mso-char-indent-count:2.0;mso-pagination:widow-orphan;&lt;br/&gt;mso-list:l0 level1 lfo1;vertical-align:middle&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体&quot;&gt;知识抽取模型&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="658.04" y="310" width="210" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
