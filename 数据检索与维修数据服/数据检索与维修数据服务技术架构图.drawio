@@ -10,8 +10,8 @@
         <mxCell id="RlNbZg7kIgTh7L_psRPj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="100.12" y="660" width="830" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-4" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="112.24000000000001" y="670" width="60" height="30" as="geometry" />
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-4" value="数据层存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="100.24" y="660" width="69.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-5" value="Mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="152.24" y="680" width="87.76" height="70" as="geometry" />
@@ -123,6 +123,18 @@
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-65" value="Mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="790" y="680" width="92.76" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100.24" y="400" width="830" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-67" value="数据处理层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="112.24" y="420" width="69.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118.86" y="520" width="792.76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-69" value="配置中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="141.68" y="540" width="108.88" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
