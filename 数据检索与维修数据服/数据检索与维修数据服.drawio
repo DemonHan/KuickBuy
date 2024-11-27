@@ -275,10 +275,10 @@
           <mxGeometry x="1296.5" y="478" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-119" value="sprintboot&lt;div&gt;admin&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1296.5" y="582" width="108" height="68" as="geometry" />
+          <mxGeometry x="1296.5" y="588.5" width="108" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-120" value="sentinel" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1296.5" y="672" width="108" height="68" as="geometry" />
+          <mxGeometry x="1296.5" y="702" width="108" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
