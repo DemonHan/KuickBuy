@@ -53,7 +53,7 @@
           <mxGeometry x="230" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-16" value="数据存储服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="610" y="726" width="90" height="30" as="geometry" />
+          <mxGeometry x="616.25" y="730" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-17" value="元数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="364" y="770" width="106" height="70" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="875" y="624.5" width="88" height="31" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="340" y="260" width="672.5" height="197" as="geometry" />
+          <mxGeometry x="340" y="260" width="330" height="197" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-76" value="数据查询服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="450" y="280" width="90" height="30" as="geometry" />
@@ -273,6 +273,15 @@
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-4" value="向量数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="872.5" y="770" width="118" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fzQhivooC-nuTEX-7UxS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="320" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="fzQhivooC-nuTEX-7UxS-6" value="模型服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzQhivooC-nuTEX-7UxS-7" value="语义检索模型" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="711.5" y="324" width="106" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
