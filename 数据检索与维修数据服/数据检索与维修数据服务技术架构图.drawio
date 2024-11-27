@@ -143,10 +143,10 @@
           <mxGeometry x="769.24" y="462.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-84" value="数据收集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="235.49" y="526" width="80" height="30" as="geometry" />
+          <mxGeometry x="250" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-85" value="数据加工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="241.49" y="448" width="80" height="30" as="geometry" />
+          <mxGeometry x="255.63" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-87" value="数据检索" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="169.87" y="25.5" width="105" height="45" as="geometry" />
