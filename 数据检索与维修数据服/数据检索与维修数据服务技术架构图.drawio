@@ -137,13 +137,10 @@
           <mxGeometry x="151.52" y="548.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-70" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="304.88" y="548.5" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="359" y="542.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-71" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="461.21" y="548.5" width="108.88" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-73" value="自动化标注" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="613.32" y="548.5" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="545.24" y="548.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-74" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="769.84" y="548.5" width="108.88" height="45" as="geometry" />
@@ -151,20 +148,17 @@
         <mxCell id="RlNbZg7kIgTh7L_psRPj-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="117.48000000000002" y="450" width="792.76" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-79" value="数据提取" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="150.14000000000001" y="470.5" width="108.88" height="45" as="geometry" />
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-79" value="多模态实体对齐" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="151.52" y="462.5" width="108.88" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-80" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="470.5" width="108.88" height="45" as="geometry" />
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-80" value="增强检索生成RAG" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360.24" y="462.5" width="108.88" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-81" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="459.83" y="470.5" width="108.88" height="45" as="geometry" />
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-81" value="自动标注" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="549.16" y="462.5" width="108.88" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-82" value="自动化标注" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="611.94" y="470.5" width="108.88" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-83" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="768.46" y="470.5" width="108.88" height="45" as="geometry" />
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-82" value="知识图谱&lt;div&gt;实体关系提取&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="769.24" y="462.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-84" value="数据收集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="235.49" y="526" width="80" height="30" as="geometry" />
