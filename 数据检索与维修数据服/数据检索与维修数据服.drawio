@@ -10,9 +10,6 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="720" width="670" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="378" y="755" width="592" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="180" width="195" height="710" as="geometry" />
         </mxCell>
@@ -79,7 +76,7 @@
         <mxCell id="gah0NT_OzrAsNBO6tPTt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=13;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1050" y="230" width="180" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="gah0NT_OzrAsNBO6tPTt-26" value="系统管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="gah0NT_OzrAsNBO6tPTt-26" value="系统管理服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1090" y="278" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gah0NT_OzrAsNBO6tPTt-30" value="" style="group" parent="1" vertex="1" connectable="0">
