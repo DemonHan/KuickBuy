@@ -122,7 +122,7 @@
           <mxGeometry x="359" y="542.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-71" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="545.24" y="548.5" width="108.88" height="45" as="geometry" />
+          <mxGeometry x="550.8100000000001" y="548.5" width="108.88" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-74" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="769.84" y="548.5" width="108.88" height="45" as="geometry" />
@@ -169,7 +169,7 @@
         <mxCell id="RlNbZg7kIgTh7L_psRPj-93" value="&lt;span style=&quot;font-size:10.5pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;语义检索模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="432.77" y="310" width="131.49" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RlNbZg7kIgTh7L_psRPj-94" value="&lt;p style=&quot;margin-left:0cm;text-align:left;&lt;br/&gt;text-indent:21.0pt;mso-char-indent-count:2.0;mso-pagination:widow-orphan;&lt;br/&gt;mso-list:l0 level1 lfo1;vertical-align:middle&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体&quot;&gt;知识抽取模型微调&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RlNbZg7kIgTh7L_psRPj-94" value="&lt;p style=&quot;margin-left:0cm;text-align:left;&lt;br/&gt;text-indent:21.0pt;mso-char-indent-count:2.0;mso-pagination:widow-orphan;&lt;br/&gt;mso-list:l0 level1 lfo1;vertical-align:middle&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体&quot;&gt;知识抽取模型&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="658.04" y="310" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RlNbZg7kIgTh7L_psRPj-95" value="&lt;font color=&quot;#ffffff&quot;&gt;网管层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#4175B1;strokeColor=none;" vertex="1" parent="1">
