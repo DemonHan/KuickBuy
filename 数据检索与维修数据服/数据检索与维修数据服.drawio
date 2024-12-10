@@ -248,31 +248,31 @@
           <mxGeometry x="975.0709219858156" y="791.9512195121952" width="92.05673758865248" height="57.19512195121951" as="geometry" />
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="832.7" y="375.24" width="122.34" height="160.96" as="geometry" />
+          <mxGeometry x="832.7" y="375.24" width="107.3" height="160.96" as="geometry" />
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-6" value="模型服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="863.3006382978724" y="383.00536585365853" width="70.21276595744679" height="24.51219512195122" as="geometry" />
+          <mxGeometry x="852.3006382978724" y="383.00536585365853" width="70.21276595744679" height="24.51219512195122" as="geometry" />
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-7" value="语义检索模型" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="853.448085106383" y="473.2965853658536" width="82.69503546099291" height="57.19512195121951" as="geometry" />
+          <mxGeometry x="846.448085106383" y="473.2965853658536" width="82.69503546099291" height="57.19512195121951" as="geometry" />
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-8" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="854.13" y="407.52" width="82.7" height="52.48" as="geometry" />
+          <mxGeometry x="847.13" y="407.52" width="82.7" height="52.48" as="geometry" />
         </mxCell>
         <mxCell id="fzQhivooC-nuTEX-7UxS-9" value="数据检索" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="975.0709219858156" y="301.7073170731707" width="92.05673758865248" height="42.48780487804878" as="geometry" />
         </mxCell>
         <mxCell id="5qJ0MJcCGX6nDC1oX01Z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="975.07" y="375.24" width="122.34" height="160.96" as="geometry" />
+          <mxGeometry x="975.07" y="375.24" width="104.93" height="160.96" as="geometry" />
         </mxCell>
         <mxCell id="5qJ0MJcCGX6nDC1oX01Z-4" value="工卡服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1005.6706382978724" y="383.00536585365853" width="70.21276595744679" height="24.51219512195122" as="geometry" />
+          <mxGeometry x="992.6706382978724" y="383.00536585365853" width="70.21276595744679" height="24.51219512195122" as="geometry" />
         </mxCell>
         <mxCell id="5qJ0MJcCGX6nDC1oX01Z-5" value="维修工卡" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="995.818085106383" y="473.2965853658536" width="82.69503546099291" height="57.19512195121951" as="geometry" />
+          <mxGeometry x="986.818085106383" y="473.2965853658536" width="82.69503546099291" height="57.19512195121951" as="geometry" />
         </mxCell>
         <mxCell id="5qJ0MJcCGX6nDC1oX01Z-6" value="维修工程" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="996.5" y="407.52" width="82.7" height="52.48" as="geometry" />
+          <mxGeometry x="987.5" y="407.52" width="82.7" height="52.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
