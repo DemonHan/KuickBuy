@@ -487,7 +487,7 @@
         <mxCell id="5uevme9E-LZzibzakwJz-70" value="数据接口" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="927.497659574468" y="1031.7073170731708" width="92.05673758865248" height="42.48780487804878" as="geometry" />
         </mxCell>
-        <mxCell id="5uevme9E-LZzibzakwJz-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5uevme9E-LZzibzakwJz-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1365.5473049645389" y="950" width="124.822695035461" height="670" as="geometry" />
         </mxCell>
         <mxCell id="5uevme9E-LZzibzakwJz-72" value="服务治理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
