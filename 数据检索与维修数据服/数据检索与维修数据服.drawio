@@ -277,7 +277,7 @@
         <mxCell id="5uevme9E-LZzibzakwJz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="624.4125531914893" y="950" width="725.5319148936171" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="5uevme9E-LZzibzakwJz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5uevme9E-LZzibzakwJz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=13;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640.015390070922" y="1481.0975609756097" width="522.6950354609929" height="122.56097560975607" as="geometry" />
         </mxCell>
         <mxCell id="5uevme9E-LZzibzakwJz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
@@ -388,7 +388,7 @@
         <mxCell id="5uevme9E-LZzibzakwJz-37" value="数提取湖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="681.3629078014184" y="1402.25" width="68.65248226950355" height="25.329268292682922" as="geometry" />
         </mxCell>
-        <mxCell id="5uevme9E-LZzibzakwJz-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="5uevme9E-LZzibzakwJz-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="913.0650354609929" y="1285" width="251.59574468085106" height="163.41463414634146" as="geometry" />
         </mxCell>
         <mxCell id="5uevme9E-LZzibzakwJz-39" value="基础服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
