@@ -310,7 +310,7 @@
         <mxCell id="5uevme9E-LZzibzakwJz-11" value="数据同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Garamond;fontSize=15;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="548.1997872340426" y="1260.4878048780488" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5uevme9E-LZzibzakwJz-12" value="数据存储服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="5uevme9E-LZzibzakwJz-12" value="数据存储服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="855.53" y="1489.27" width="94.84" height="24.51" as="geometry" />
         </mxCell>
         <mxCell id="5uevme9E-LZzibzakwJz-13" value="元数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -391,7 +391,7 @@
         <mxCell id="5uevme9E-LZzibzakwJz-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="913.0650354609929" y="1285" width="251.59574468085106" height="163.41463414634146" as="geometry" />
         </mxCell>
-        <mxCell id="5uevme9E-LZzibzakwJz-39" value="基础服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="5uevme9E-LZzibzakwJz-39" value="基础服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1003.7565248226949" y="1292.3536585365853" width="70.21276595744679" height="24.51219512195122" as="geometry" />
         </mxCell>
         <mxCell id="5uevme9E-LZzibzakwJz-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
