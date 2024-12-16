@@ -424,8 +424,8 @@
         <mxCell id="qE-unWICkFzCaJ2JARI1-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4175B1;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="qE-unWICkFzCaJ2JARI1-81">
           <mxGeometry x="38" y="43.661885245901644" width="850" height="55.56967213114755" as="geometry" />
         </mxCell>
-        <mxCell id="qE-unWICkFzCaJ2JARI1-52" value="前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=13;" vertex="1" parent="qE-unWICkFzCaJ2JARI1-81">
-          <mxGeometry x="80.25" y="51.60040983606558" width="50" height="30" as="geometry" />
+        <mxCell id="qE-unWICkFzCaJ2JARI1-52" value="前端（应用层））" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=13;" vertex="1" parent="qE-unWICkFzCaJ2JARI1-81">
+          <mxGeometry x="40.25" y="51.60040983606558" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qE-unWICkFzCaJ2JARI1-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontStyle=1;fontSize=13;strokeColor=none;" vertex="1" parent="qE-unWICkFzCaJ2JARI1-81">
           <mxGeometry x="163" y="51.60040983606558" width="633" height="39.692622950819676" as="geometry" />
