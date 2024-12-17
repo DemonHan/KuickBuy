@@ -47,7 +47,7 @@
           <mxGeometry x="310" y="487.14" width="80" height="25.72" as="geometry" />
         </mxCell>
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-16" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="504" y="485.78" width="80" height="25.72" as="geometry" />
+          <mxGeometry x="510" y="487.14" width="80" height="25.72" as="geometry" />
         </mxCell>
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-17" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="487.14" width="80" height="25.72" as="geometry" />
