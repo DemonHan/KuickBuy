@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="450" height="440" as="geometry" />
+          <mxGeometry x="180" y="200" width="560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="390" height="51.29" as="geometry" />
@@ -61,9 +61,6 @@
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-20" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="510" y="407.15" width="80" height="25.72" as="geometry" />
         </mxCell>
-        <mxCell id="Hz8do1xcwLAu2_MjNyLG-21" value="知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="650" y="339.99999999999994" width="80" height="25.72" as="geometry" />
-        </mxCell>
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="262.79" width="300" height="40" as="geometry" />
         </mxCell>
@@ -75,6 +72,18 @@
         </mxCell>
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-27" value="知识图谱" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="354" y="332.13999999999993" width="80" height="25.72" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-28" value="应用类别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="312.79" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-29" value="LLM辅助问答" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="450" y="332.14" width="90" height="25.72" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="100" height="361.29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
