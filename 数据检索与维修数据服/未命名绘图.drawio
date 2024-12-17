@@ -16,6 +16,24 @@
         <mxCell id="Hz8do1xcwLAu2_MjNyLG-5" value="统一数据底座" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="40" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="390" height="51.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-7" value="统一数据湖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="467.29" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="394.36" width="390" height="51.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-9" value="统一数据运营" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="394.36" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="390" height="51.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz8do1xcwLAu2_MjNyLG-11" value="应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="40" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
