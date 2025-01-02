@@ -28,17 +28,17 @@
         <mxCell id="sfjIwVRevGX3wRHE7yGE-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font&gt;技术出版物编写管理&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="230" width="147.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sfjIwVRevGX3wRHE7yGE-9" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;业务规则管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="sfjIwVRevGX3wRHE7yGE-9" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;业务规则&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="285.5" y="313" width="104.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sfjIwVRevGX3wRHE7yGE-10" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;SNS和IC清单管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="285.5" y="363" width="104.5" height="30" as="geometry" />
+        <mxCell id="sfjIwVRevGX3wRHE7yGE-10" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;SNS和IC清单&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="357" width="104.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sfjIwVRevGX3wRHE7yGE-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;系统级规则管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="sfjIwVRevGX3wRHE7yGE-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;系统级规则&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400.5" y="313" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-12" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;DMRL和DM管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="400" y="363" width="100" height="30" as="geometry" />
+          <mxGeometry x="400" y="357" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#174c79, #6894c8);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="518" y="220" width="130" height="200" as="geometry" />
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-29" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;任务中心&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="660" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sfjIwVRevGX3wRHE7yGE-31" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;实体对象&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="287.75" y="399" width="102.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sfjIwVRevGX3wRHE7yGE-32" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;CIR库&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="399.38" y="399" width="102.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
