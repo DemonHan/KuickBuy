@@ -29,16 +29,16 @@
           <mxGeometry x="332.5" y="230" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-9" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;业务规则管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="285.5" y="320" width="104.5" height="30" as="geometry" />
+          <mxGeometry x="285.5" y="313" width="104.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-10" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;SNS和IC清单管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="285.5" y="370" width="104.5" height="30" as="geometry" />
+          <mxGeometry x="285.5" y="363" width="104.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-11" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;系统级规则管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="400.5" y="320" width="100" height="30" as="geometry" />
+          <mxGeometry x="400.5" y="313" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-12" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;DMRL和DM管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="100" height="30" as="geometry" />
+          <mxGeometry x="400" y="363" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#174c79, #6894c8);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="518" y="220" width="130" height="200" as="geometry" />
