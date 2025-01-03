@@ -58,7 +58,7 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-32" value="业务服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="533.75" y="460" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-33" value="业务规则管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="J7e16loEIpS3EIJHLEXg-33" value="项目管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="389.75" y="490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-34" value="更改管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-35" value="数据管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="389.75" y="570" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-36" value="生产管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="J7e16loEIpS3EIJHLEXg-36" value="业务规则" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="515.75" y="490" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-37" value="数据交互" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-40" value="业务配置" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="216" y="530" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-42" value="数据模块验证管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="J7e16loEIpS3EIJHLEXg-42" value="SNS和IC" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="652.75" y="490" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-44" value="技术出版物质量管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-95" value="服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="97.25" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWLqM0G205vbBxCOY02-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J7e16loEIpS3EIJHLEXg-34" target="J7e16loEIpS3EIJHLEXg-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
