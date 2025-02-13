@@ -109,7 +109,7 @@
         <mxCell id="ACk6Gb_vnD5pea2Cql9f-44" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;通义千问&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="777.37" y="412.75" width="102.63" height="43.17" as="geometry" />
         </mxCell>
-        <mxCell id="ACk6Gb_vnD5pea2Cql9f-48" value="向量化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=14;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="ACk6Gb_vnD5pea2Cql9f-48" value="向量处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=14;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="773.1970967741936" y="104.94048780487817" width="101.03225806451613" height="24.8780487804878" as="geometry" />
         </mxCell>
         <mxCell id="ACk6Gb_vnD5pea2Cql9f-49" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;Semantic Vector&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
