@@ -79,8 +79,14 @@
         <mxCell id="ACk6Gb_vnD5pea2Cql9f-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#174c79, #6894c8);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="173" y="510" width="530" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ACk6Gb_vnD5pea2Cql9f-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="210" y="530" width="70" height="70" as="geometry" />
+        <mxCell id="ACk6Gb_vnD5pea2Cql9f-29" value="schema标签" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#00b3fb, #ededed);fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="530" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ACk6Gb_vnD5pea2Cql9f-32" value="参数配置" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#00b3fb, #ededed);fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="395" y="530" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ACk6Gb_vnD5pea2Cql9f-33" value="文件库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#00b3fb, #ededed);fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="530" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
