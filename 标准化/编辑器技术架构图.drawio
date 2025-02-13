@@ -67,8 +67,8 @@
         <mxCell id="ACk6Gb_vnD5pea2Cql9f-22" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;标准规则配置&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="200" y="590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ACk6Gb_vnD5pea2Cql9f-23" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;标准规则配置&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="319" y="590" width="100" height="40" as="geometry" />
+        <mxCell id="ACk6Gb_vnD5pea2Cql9f-24" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;结构配置&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="383" y="590" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
