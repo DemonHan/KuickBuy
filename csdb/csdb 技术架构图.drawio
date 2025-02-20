@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="第 1 页" id="zqUAOEaz19EFo88n6Xfu">
-    <mxGraphModel dx="1300" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,8 +169,8 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-74" value="CSDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Garamond;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="460" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7e16loEIpS3EIJHLEXg-77" value="达梦" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="244.88" y="716" width="60" height="30" as="geometry" />
+        <mxCell id="J7e16loEIpS3EIJHLEXg-77" value="关系数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="237.25" y="711" width="75.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7e16loEIpS3EIJHLEXg-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;" parent="1" vertex="1">
           <mxGeometry x="432.76" y="731" width="60" height="60" as="geometry" />
@@ -220,25 +220,25 @@
         <mxCell id="J7e16loEIpS3EIJHLEXg-95" value="服务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="97.25" y="391" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J7e16loEIpS3EIJHLEXg-34" target="J7e16loEIpS3EIJHLEXg-34">
+        <mxCell id="DDWLqM0G205vbBxCOY02-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J7e16loEIpS3EIJHLEXg-34" target="J7e16loEIpS3EIJHLEXg-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-2" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DDWLqM0G205vbBxCOY02-2" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="389.75" y="562" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-3" value="双语编写" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DDWLqM0G205vbBxCOY02-3" value="双语编写" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="515.75" y="562" width="104.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-4" value="生产计划" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DDWLqM0G205vbBxCOY02-4" value="生产计划" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="653.5" y="562" width="104.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-5" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DDWLqM0G205vbBxCOY02-5" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="389.75" y="600" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-6" value="质量管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DDWLqM0G205vbBxCOY02-6" value="质量管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="515.75" y="600" width="104.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDWLqM0G205vbBxCOY02-7" value="验证管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DDWLqM0G205vbBxCOY02-7" value="验证管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="652.75" y="600" width="104.25" height="30" as="geometry" />
         </mxCell>
       </root>
