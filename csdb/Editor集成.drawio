@@ -8,7 +8,7 @@
           <mxGeometry x="130" y="240" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="X-y8eWS_1HgyR7MCwbna-2" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="100" width="30" height="60" as="geometry" />
+          <mxGeometry x="145" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-y8eWS_1HgyR7MCwbna-3" value="客户端编辑器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="175" y="250" width="90" height="30" as="geometry" />
@@ -46,11 +46,26 @@
             <mxPoint x="320" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X-y8eWS_1HgyR7MCwbna-14" value="DM XML" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="355" y="340" width="70" height="30" as="geometry" />
+        <mxCell id="X-y8eWS_1HgyR7MCwbna-14" value="CIR库、实体等数据获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-y8eWS_1HgyR7MCwbna-17" value="负责人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="110" width="30" height="60" as="geometry" />
+          <mxGeometry x="610" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X-y8eWS_1HgyR7MCwbna-18" value="" style="shape=flexArrow;endArrow=none;startArrow=classic;html=1;rounded=0;width=6;startSize=3.64;endSize=3.64;endWidth=17.387755102040817;startWidth=17.387755102040817;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="162" y="240.5" as="sourcePoint" />
+            <mxPoint x="162" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X-y8eWS_1HgyR7MCwbna-19" value="" style="shape=flexArrow;endArrow=none;startArrow=classic;html=1;rounded=0;width=6;startSize=3.64;endSize=3.64;endWidth=17.387755102040817;startWidth=17.387755102040817;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="624.5" y="240.5" as="sourcePoint" />
+            <mxPoint x="624.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X-y8eWS_1HgyR7MCwbna-20" value="DM 编写" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
