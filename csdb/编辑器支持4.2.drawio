@@ -71,6 +71,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-26" value="文件更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Garamond;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
