@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="第 1 页" id="FHXKr0zKF4GF57OW8jTa">
-    <mxGraphModel>
+    <mxGraphModel dx="910" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-3" value="编辑器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Garamond;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#4175B1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-6" value="CSDB服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Garamond;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="235" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-7" value="标准配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="535" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-9" value="S1000D&lt;div&gt;4.2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="535" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-12" value="ATA 2300" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="545" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
