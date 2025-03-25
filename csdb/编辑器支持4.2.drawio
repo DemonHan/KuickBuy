@@ -49,6 +49,15 @@
         <mxCell id="poCM_1kXqRK1p8-Zq75z-21" value="XML 编辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="435" y="520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="poCM_1kXqRK1p8-Zq75z-4" target="poCM_1kXqRK1p8-Zq75z-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="470" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poCM_1kXqRK1p8-Zq75z-23" value="xsd控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Garamond;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="349" y="535" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
