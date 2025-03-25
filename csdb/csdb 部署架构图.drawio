@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="第 1 页" id="CDN1awkTx7iHZSeHB25q">
-    <mxGraphModel dx="2344" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,15 +243,15 @@
         </mxCell>
         <mxCell id="xLjhcjiEux8-4FWyUihL-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-159" y="1130" as="sourcePoint" />
-            <mxPoint x="-65" y="1130.25" as="targetPoint" />
+            <mxPoint x="-489" y="1130.25" as="sourcePoint" />
+            <mxPoint x="-395" y="1131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xLjhcjiEux8-4FWyUihL-6" value="API调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-165" y="1095.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="-495" y="1096" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xLjhcjiEux8-4FWyUihL-7" value="网关集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="55" y="1020.5" width="80" height="30" as="geometry" />
+        <mxCell id="xLjhcjiEux8-4FWyUihL-7" value="外部网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-575" y="1011" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xLjhcjiEux8-4FWyUihL-8" value="nacos集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="439" y="800" width="100" height="30" as="geometry" />
@@ -383,19 +383,7 @@
           <mxGeometry x="-45" y="1197.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xLjhcjiEux8-4FWyUihL-44" value="&lt;font color=&quot;#ffffff&quot;&gt;Web&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a07427;fontSize=17;strokeColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="1098.5" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xLjhcjiEux8-4FWyUihL-45" value="&lt;font color=&quot;#ffffff&quot;&gt;编辑器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a07427;fontSize=17;strokeColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="1181" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xLjhcjiEux8-4FWyUihL-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-161" y="1210" as="sourcePoint" />
-            <mxPoint x="-70" y="1210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xLjhcjiEux8-4FWyUihL-47" value="API调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1173.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="-600" y="1098.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xLjhcjiEux8-4FWyUihL-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xLjhcjiEux8-4FWyUihL-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -441,6 +429,48 @@
         </mxCell>
         <mxCell id="xLjhcjiEux8-4FWyUihL-60" value="配置获取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="489" y="1020.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="1357.25" as="sourcePoint" />
+            <mxPoint x="-370" y="977.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-62" value="&lt;font color=&quot;#ffffff&quot;&gt;VPN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a07427;fontSize=17;strokeColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="1041" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="1356" as="sourcePoint" />
+            <mxPoint x="-250" y="976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-64" value="绿区网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1005.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-65" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120.71" y="1350" as="sourcePoint" />
+            <mxPoint x="-120.71" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-66" value="黄区网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1005.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-357" y="1134" as="sourcePoint" />
+            <mxPoint x="-263" y="1134.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-234" y="1135.5" as="sourcePoint" />
+            <mxPoint x="-140" y="1136.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLjhcjiEux8-4FWyUihL-71" value="红区网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1000" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
