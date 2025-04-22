@@ -78,7 +78,7 @@
         <mxCell id="4QLVEUlT6ZixZRZqhM-1-27" value="存储备份（30T）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4QLVEUlT6ZixZRZqhM-1-29" value="256G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4QLVEUlT6ZixZRZqhM-1-29" value="256G 64C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4QLVEUlT6ZixZRZqhM-1-30" value="64G 32C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
