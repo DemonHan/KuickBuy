@@ -38,7 +38,7 @@
         <mxCell id="4QLVEUlT6ZixZRZqhM-1-11" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="650" y="140" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4QLVEUlT6ZixZRZqhM-1-12" value="mysql" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4QLVEUlT6ZixZRZqhM-1-12" value="每天增量备份" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4QLVEUlT6ZixZRZqhM-1-13" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -56,6 +56,9 @@
               <mxPoint x="690" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4QLVEUlT6ZixZRZqhM-1-16" value="每天增量备份" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
