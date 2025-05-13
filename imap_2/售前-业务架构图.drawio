@@ -14,7 +14,7 @@
           <mxGeometry x="130" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-4" value="手册分发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="176" width="90" height="34" as="geometry" />
+          <mxGeometry x="115" y="173" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-5" value="作业日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="220" width="90" height="30" as="geometry" />
