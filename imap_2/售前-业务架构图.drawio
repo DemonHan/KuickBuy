@@ -4,23 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="160" height="280" as="geometry" />
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-2" value="手册清单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="130" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-3" value="资料管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="60" height="30" as="geometry" />
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-3" value="手册资料管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-4" value="手册分发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="173" width="90" height="34" as="geometry" />
+          <mxGeometry x="115" y="170" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-5" value="作业日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-6" value="资料发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="260" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-8" value="手册清单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-9" value="手册资料库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
