@@ -154,6 +154,24 @@
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-53" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;localforage&lt;br&gt;本地化持久&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="548.85" y="885" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-54" value="后端技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="950" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.25" y="950" width="527.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-56" value="JAVA&lt;br&gt;开发语言" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="965" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-57" value="Swagger&lt;br&gt;接口文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="965" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-58" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;Spring boot&lt;br&gt;框架&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="965" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-59" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;Spring cloud&lt;br&gt;框架&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="965" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
