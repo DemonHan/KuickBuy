@@ -25,11 +25,14 @@
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-8" value="手册清单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-8" value="手册搜索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-9" value="手册资料库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-10" value="手册列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="173.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
