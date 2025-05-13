@@ -79,6 +79,21 @@
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-26" value="问题反馈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="638.8461538461538" y="498.72727272727275" width="76.15384615384616" height="27.272727272727273" as="geometry" />
         </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-28" value="基础服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="560" width="525" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-30" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-31" value="角色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-32" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
