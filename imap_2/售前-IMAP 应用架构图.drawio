@@ -140,7 +140,7 @@
           <mxGeometry x="90" y="870" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="151.25" y="870" width="608.75" height="60" as="geometry" />
+          <mxGeometry x="151.25" y="870" width="718.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-50" value="VUE&lt;br&gt;前端框架" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="885" width="90" height="30" as="geometry" />
@@ -195,6 +195,42 @@
         </mxCell>
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-67" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;Seata&lt;br&gt;分布式事务&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="371.5" y="1045" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-72" value="存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1100" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.25" y="1100" width="718.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-74" value="Mysql&lt;br&gt;关系型数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1115" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-75" value="Minio&lt;br&gt;文件存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1115" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-76" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;Redis&lt;br&gt;缓存&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="1115" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-82" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;Nacos&lt;br&gt;分布式事务&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1045" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-83" value="部署运维" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1180" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.25" y="1180" width="718.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-85" value="Nginx&lt;br&gt;负载均衡" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-86" value="Docker&lt;br&gt;容器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1195" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-87" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;Docker-compose&lt;br&gt;容器管理&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="1195" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k1Ho-n8EV5DhAOBqvkNn-88" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;logrotate&lt;br&gt;日志工具&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1195" width="98.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
