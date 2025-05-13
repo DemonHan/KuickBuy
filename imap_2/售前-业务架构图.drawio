@@ -92,10 +92,19 @@
           <mxGeometry x="385" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="80" width="130" height="380" as="geometry" />
+          <mxGeometry x="660" y="80" width="180" height="380" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-32" value="支持模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="90" width="80" height="30" as="geometry" />
+          <mxGeometry x="710" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-33" value="账号管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="130" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-34" value="租户管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-35" value="机队管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="173.5" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
