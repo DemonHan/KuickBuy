@@ -220,16 +220,16 @@
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-73" value="支持模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="620" y="550" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-74" value="历史数据归档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B5C8E4,#EDEDED);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-74" value="历史数据归档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="610" y="610" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-76" value="过期清理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B5C8E4,#EDEDED);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-76" value="过期清理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="610" y="683" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-77" value="资源监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B5C8E4,#EDEDED);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-77" value="资源监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="610" y="748" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nA85lhXwjBj9LnQ69MAJ-78" value="用户监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#B5C8E4,#EDEDED);strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-78" value="用户监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="610" y="813" width="92.5" height="30" as="geometry" />
         </mxCell>
       </root>
