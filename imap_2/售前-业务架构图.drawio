@@ -76,6 +76,21 @@
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="290" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-26" value="个人中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-27" value="最近浏览" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-28" value="我的收藏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-29" value="我的打印" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-30" value="我的反馈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
