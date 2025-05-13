@@ -146,13 +146,13 @@
           <mxGeometry x="180" y="885" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-51" value="ElementUI&lt;br&gt;前端组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="885" width="90" height="30" as="geometry" />
+          <mxGeometry x="301" y="885" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-52" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;cordova&lt;br&gt;移动端&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="885" width="90" height="30" as="geometry" />
+          <mxGeometry x="420" y="885" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k1Ho-n8EV5DhAOBqvkNn-53" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cordova&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;localforage&lt;br&gt;本地化持久&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="885" width="90" height="30" as="geometry" />
+          <mxGeometry x="548.85" y="885" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
