@@ -215,7 +215,7 @@
           <mxGeometry x="363" y="850" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="540" width="125" height="350" as="geometry" />
+          <mxGeometry x="600" y="540" width="110" height="350" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-73" value="支持模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="550" width="80" height="30" as="geometry" />
