@@ -47,7 +47,19 @@
           <mxGeometry x="440" y="80" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="nA85lhXwjBj9LnQ69MAJ-15" value="手册浏览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="90" width="80" height="30" as="geometry" />
+          <mxGeometry x="465" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-16" value="PM&amp;amp;SNS浏览" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-17" value="插图浏览" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="173.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-18" value="三维插图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nA85lhXwjBj9LnQ69MAJ-19" value="三维插图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#8699e4, #ededed);strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="265" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
