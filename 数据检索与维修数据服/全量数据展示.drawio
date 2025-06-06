@@ -91,6 +91,54 @@
             <mxPoint x="175" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-31" value="Web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="90" y="820" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="iM4n6Fn5fozvlxk0_vRT-31">
+          <mxGeometry x="45" y="70" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-33" value="全量数据模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="820" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="iM4n6Fn5fozvlxk0_vRT-33">
+          <mxGeometry x="45" y="70" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-35" value="数据存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="iM4n6Fn5fozvlxk0_vRT-35">
+          <mxGeometry x="45" y="70" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145.5" y="920" as="sourcePoint" />
+            <mxPoint x="350" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-38" value="接机、制造、试飞&lt;br&gt;设计工程、全面工程条件查询请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="885" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="940" as="sourcePoint" />
+            <mxPoint x="564.5" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-40" value="转换SQL查询语句" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-41" value="返回数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1010" as="sourcePoint" />
+            <mxPoint x="360" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iM4n6Fn5fozvlxk0_vRT-42" value="组装查询结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="1040" as="sourcePoint" />
+            <mxPoint x="145" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
