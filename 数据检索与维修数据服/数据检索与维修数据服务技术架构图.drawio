@@ -629,37 +629,31 @@
           <mxGeometry x="2654.86" y="1190.9590163934427" width="792.76" height="55.56967213114755" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-35" value="数据提取" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2687.52" y="1205.645286885246" width="108.88" height="35.72336065573771" as="geometry" />
+          <mxGeometry x="2801.81" y="1200.885286885246" width="108.88" height="35.72336065573771" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-36" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2895" y="1200.8821721311476" width="108.88" height="35.72336065573771" as="geometry" />
-        </mxCell>
-        <mxCell id="pggdGNBV-Jd5DTWPNnkL-37" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="3086.81" y="1205.645286885246" width="108.88" height="35.72336065573771" as="geometry" />
+          <mxGeometry x="3012.12" y="1200.8821721311476" width="108.88" height="35.72336065573771" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-38" value="数据监控" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="3305.84" y="1205.645286885246" width="108.88" height="35.72336065573771" as="geometry" />
+          <mxGeometry x="3220" y="1200.885286885246" width="108.88" height="35.72336065573771" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2653.48" y="1127.4508196721313" width="792.76" height="55.56967213114755" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-40" value="多模态实体对齐" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2687.52" y="1137.373975409836" width="108.88" height="35.72336065573771" as="geometry" />
-        </mxCell>
-        <mxCell id="pggdGNBV-Jd5DTWPNnkL-41" value="增强检索生成RAG" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2896.24" y="1137.373975409836" width="108.88" height="35.72336065573771" as="geometry" />
+          <mxGeometry x="2801.81" y="1137.3739754098358" width="108.88" height="35.72336065573771" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-42" value="自动标注" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="3085.16" y="1137.373975409836" width="108.88" height="35.72336065573771" as="geometry" />
+          <mxGeometry x="3012.12" y="1137.373975409836" width="108.88" height="35.72336065573771" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-43" value="知识图谱&lt;div&gt;实体关系提取&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="3305.24" y="1137.373975409836" width="108.88" height="35.72336065573771" as="geometry" />
+          <mxGeometry x="3217.12" y="1137.373975409836" width="108.88" height="35.72336065573771" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-44" value="数据收集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2786" y="1190.9590163934427" width="80" height="30" as="geometry" />
+          <mxGeometry x="2671.12" y="1190.9590163934427" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-45" value="数据加工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2791.63" y="1127.4508196721313" width="80" height="30" as="geometry" />
+          <mxGeometry x="2671.12" y="1133.0008196721312" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pggdGNBV-Jd5DTWPNnkL-46" value="数据检索" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2934" y="853.5717213114754" width="105" height="35.72336065573771" as="geometry" />
