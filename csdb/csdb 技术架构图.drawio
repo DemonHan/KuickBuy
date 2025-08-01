@@ -472,7 +472,7 @@
         <mxCell id="MYSthnMUgmbdjP9HcZYz-106" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2447.52" y="1061" width="129.49" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-107" value="mongodb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-107" value="Mongodb" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2479.77" y="1061" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-108" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;" vertex="1" parent="1">
