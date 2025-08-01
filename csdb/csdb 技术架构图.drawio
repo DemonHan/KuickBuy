@@ -269,18 +269,18 @@
           <mxGeometry x="1819.37" y="771" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1998.25" y="766" width="191.75" height="224" as="geometry" />
+          <mxGeometry x="1998.25" y="766" width="171.75" height="224" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-18" value="动态线路生成服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2022.7600000000002" y="766" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-19" value="项目管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-19" value="元器件逻辑库" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2019.25" y="793" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-20" value="DM和DMRL" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;接线数据预处理&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2019.25" y="833" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-21" value="片段库" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-21" value="电路分析" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2019.25" y="873" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-31" value="&lt;font color=&quot;#ffffff&quot;&gt;网关层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#4175B1;strokeColor=none;" vertex="1" parent="1">
@@ -412,10 +412,10 @@
         <mxCell id="MYSthnMUgmbdjP9HcZYz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="MYSthnMUgmbdjP9HcZYz-20" target="MYSthnMUgmbdjP9HcZYz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-68" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-68" value="图符规则" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2019.25" y="912" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-71" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-71" value="动态布线浏览" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2019.25" y="950" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-74" value="cortona3d" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;textShadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -427,23 +427,20 @@
         <mxCell id="MYSthnMUgmbdjP9HcZYz-76" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;三维敷设图交互&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;br/&gt;&lt;p&gt;&lt;br/&gt;三维敷设图交互服务&lt;/p&gt;&lt;/article&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2257.76" y="721" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-77" value="项目管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-77" value="三维可视化交互" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2260.1400000000003" y="793" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-78" value="DM和DMRL" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2260.1400000000003" y="833" width="100" height="30" as="geometry" />
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-78" value="导线与设备属性关系" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2260.140000000001" y="843" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-79" value="片段库" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2260.1400000000003" y="873" width="100" height="30" as="geometry" />
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-79" value="搜索关联" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2257.7600000000007" y="890" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="MYSthnMUgmbdjP9HcZYz-78" target="MYSthnMUgmbdjP9HcZYz-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-84" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2260.1400000000003" y="912" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-86" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="2260.1400000000003" y="950" width="100" height="30" as="geometry" />
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-84" value="三二维关系关联" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2258.63" y="940" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2441.26" y="766" width="177.24" height="224" as="geometry" />
@@ -473,13 +470,13 @@
           <mxGeometry x="1834.38" y="803" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-98" value="线路图编制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1834.38" y="840" width="100" height="30" as="geometry" />
+          <mxGeometry x="1834.38" y="852" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-99" value="导线清单编制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1834.01" y="882" width="100" height="30" as="geometry" />
+          <mxGeometry x="1834.3799999999999" y="890" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-100" value="设备清单编制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1834.01" y="920" width="100" height="30" as="geometry" />
+          <mxGeometry x="1834.3799999999999" y="942" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
