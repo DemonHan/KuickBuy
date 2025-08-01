@@ -220,7 +220,7 @@
         <mxCell id="LQaYhxwzcPAnCRvu0Zof-17" value="导线清单编制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="670" y="1765" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LQaYhxwzcPAnCRvu0Zof-18" value="内容交互管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LQaYhxwzcPAnCRvu0Zof-18" value="关联搜索" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="860" y="1765" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LQaYhxwzcPAnCRvu0Zof-19" value="业务配置" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
