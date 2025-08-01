@@ -301,7 +301,7 @@
         <mxCell id="LQaYhxwzcPAnCRvu0Zof-38" value="存储层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="585" y="2130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQaYhxwzcPAnCRvu0Zof-39" value="关系数据库" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="LQaYhxwzcPAnCRvu0Zof-39" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="655" y="2150" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LQaYhxwzcPAnCRvu0Zof-40" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
