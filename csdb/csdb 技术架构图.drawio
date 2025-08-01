@@ -445,13 +445,13 @@
         <mxCell id="MYSthnMUgmbdjP9HcZYz-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;fillColor=#FFFFFF;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2441.26" y="766" width="177.24" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-90" value="项目管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-90" value="中英文对照" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2462.26" y="793" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-91" value="DM和DMRL" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-91" value="高级搜索" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2462.26" y="833" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MYSthnMUgmbdjP9HcZYz-92" value="片段库" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="MYSthnMUgmbdjP9HcZYz-92" value="手册分发" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=default;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2462.26" y="873" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYSthnMUgmbdjP9HcZYz-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="MYSthnMUgmbdjP9HcZYz-91" target="MYSthnMUgmbdjP9HcZYz-91">
