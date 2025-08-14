@@ -101,7 +101,7 @@
           <mxGeometry x="390" y="419" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-40" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;验证管理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="400.49" y="499" width="119.51" height="31" as="geometry" />
+          <mxGeometry x="400.49" y="510" width="119.51" height="31" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#174c79, #6894c8);strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="547.5" y="360" width="160" height="210" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="565" y="439" width="125" height="31" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-47" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;分发交付&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="562.5" y="500" width="125" height="31" as="geometry" />
+          <mxGeometry x="562.5" y="510" width="125" height="31" as="geometry" />
         </mxCell>
         <mxCell id="sfjIwVRevGX3wRHE7yGE-48" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;编辑器&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b3fb, #1e4a76);strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="720" y="220" width="60" height="350" as="geometry" />
