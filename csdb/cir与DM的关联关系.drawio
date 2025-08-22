@@ -110,6 +110,11 @@
         <mxCell id="geReMuQLmWx2-0_fnQ3M-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geReMuQLmWx2-0_fnQ3M-32" target="geReMuQLmWx2-0_fnQ3M-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="geReMuQLmWx2-0_fnQ3M-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geReMuQLmWx2-0_fnQ3M-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="geReMuQLmWx2-0_fnQ3M-32" value="已保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="1290" width="150" height="50" as="geometry" />
         </mxCell>
@@ -141,6 +146,12 @@
         </mxCell>
         <mxCell id="geReMuQLmWx2-0_fnQ3M-42" value="启用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="685" y="1348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="geReMuQLmWx2-0_fnQ3M-44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="geReMuQLmWx2-0_fnQ3M-45" value="删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
