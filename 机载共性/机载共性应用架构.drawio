@@ -307,17 +307,14 @@
         <mxCell id="tqjAG6MXT4f4XY4HCw1w-111" value="技术出版物更改管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="826.2600000000001" y="1112" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqjAG6MXT4f4XY4HCw1w-112" value="验证计划" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tqjAG6MXT4f4XY4HCw1w-112" value="DM修改及版本控制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="783.0400000000001" y="1150" width="91.99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqjAG6MXT4f4XY4HCw1w-113" value="验证记录管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tqjAG6MXT4f4XY4HCw1w-113" value="PM版本" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="904.14" y="1150" width="94.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqjAG6MXT4f4XY4HCw1w-114" value="验证状态跟踪" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="783.04" y="1190" width="94.37" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tqjAG6MXT4f4XY4HCw1w-115" value="验证单" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="904.14" y="1190" width="94.37" height="30" as="geometry" />
+        <mxCell id="tqjAG6MXT4f4XY4HCw1w-114" value="DMRL 版本管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="783.04" y="1190" width="216.96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
