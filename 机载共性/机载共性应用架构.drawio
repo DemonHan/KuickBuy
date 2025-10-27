@@ -187,7 +187,7 @@
         <mxCell id="tqjAG6MXT4f4XY4HCw1w-64" value="项目管理" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="454.5" y="777" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tqjAG6MXT4f4XY4HCw1w-65" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tqjAG6MXT4f4XY4HCw1w-65" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="454.5" y="827" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tqjAG6MXT4f4XY4HCw1w-66" value="数据交换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
