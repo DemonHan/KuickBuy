@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="第 1 页" id="ezJ-41k_cpQQ4mtPTGTI">
-    <mxGraphModel dx="1097" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,7 @@
             <mxPoint x="759" y="518.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekjMRU7jst0iYivutcKB-20" value="认证中心" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="692" y="710.25" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ekjMRU7jst0iYivutcKB-21" value="&lt;font color=&quot;#ffffff&quot;&gt;ELK&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5b930;fontSize=17;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ekjMRU7jst0iYivutcKB-21" value="&lt;font color=&quot;#ffffff&quot;&gt;日志服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5b930;fontSize=17;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="929" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekjMRU7jst0iYivutcKB-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.279;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ekjMRU7jst0iYivutcKB-9">
@@ -88,10 +85,7 @@
             <mxPoint x="969" y="650.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekjMRU7jst0iYivutcKB-23" value="日志服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="929" y="710.25" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ekjMRU7jst0iYivutcKB-24" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;宋体;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Grafana&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5b930;fontSize=17;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ekjMRU7jst0iYivutcKB-24" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;监控服务&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5b930;fontSize=17;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1062" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekjMRU7jst0iYivutcKB-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.279;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -99,9 +93,6 @@
             <mxPoint x="1109" y="605" as="sourcePoint" />
             <mxPoint x="1109" y="650.25" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ekjMRU7jst0iYivutcKB-26" value="服务监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1130.5" y="720.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ekjMRU7jst0iYivutcKB-27" value="&lt;font color=&quot;#ffffff&quot;&gt;Mysql&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;fontSize=17;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1279" y="444.75" width="100" height="40" as="geometry" />
@@ -142,7 +133,7 @@
         <mxCell id="ekjMRU7jst0iYivutcKB-40" value="请求转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="794" y="467.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ekjMRU7jst0iYivutcKB-41" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;宋体;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Prometheus&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5b930;fontSize=17;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ekjMRU7jst0iYivutcKB-41" value="监控服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5b930;fontSize=17;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1179" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ekjMRU7jst0iYivutcKB-42" value="存储机集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;fontStyle=1" vertex="1" parent="1">
