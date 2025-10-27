@@ -283,6 +283,9 @@
         <mxCell id="tqjAG6MXT4f4XY4HCw1w-102" value="技术出版物发布管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="447" y="1050" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tqjAG6MXT4f4XY4HCw1w-103" value="样式创建与配置" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;strokeColor=none;fillColor=#0058AC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="315.63" y="1084" width="124.37" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
