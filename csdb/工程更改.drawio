@@ -13,7 +13,10 @@
         <mxCell id="RK2RYDco-IvM_a9WVP1H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="csdb_revision_task_pool" vertex="1">
           <mxGeometry height="60" width="190" x="150" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="RK2RYDco-IvM_a9WVP1H-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="csdb_revision_task_item" vertex="1">
+        <mxCell id="cT9poGujJnyBJYFujyta-9" edge="1" parent="1" source="RK2RYDco-IvM_a9WVP1H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cT9poGujJnyBJYFujyta-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RK2RYDco-IvM_a9WVP1H-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="csdb_source_pool" vertex="1">
           <mxGeometry height="60" width="190" x="150" y="200" as="geometry" />
         </mxCell>
         <mxCell id="RK2RYDco-IvM_a9WVP1H-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1：N" vertex="1">
@@ -68,6 +71,25 @@
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="data_module_id 和 dm_app_id 都存在的场景是&lt;br&gt;1、恢复、作废、替换" vertex="1">
           <mxGeometry height="50" width="160" x="1250" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-11" edge="1" parent="1" source="cT9poGujJnyBJYFujyta-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.019;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" target="cT9poGujJnyBJYFujyta-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="450" />
+              <mxPoint x="1260" y="450" />
+              <mxPoint x="1260" y="92" />
+            </Array>
+            <mxPoint x="50" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;br/&gt;&lt;span data-type=&quot;text&quot;&gt;csdb_rel_source_dm&lt;/span&gt;&lt;/article&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="150" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
