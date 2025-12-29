@@ -76,12 +76,12 @@
         <mxCell id="cT9poGujJnyBJYFujyta-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:1" vertex="1">
           <mxGeometry height="30" width="60" x="950" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="cT9poGujJnyBJYFujyta-34" edge="1" parent="1" source="cT9poGujJnyBJYFujyta-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="cT9poGujJnyBJYFujyta-32">
+        <mxCell id="cT9poGujJnyBJYFujyta-44" edge="1" parent="1" source="cT9poGujJnyBJYFujyta-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="cT9poGujJnyBJYFujyta-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1125" y="310" />
-              <mxPoint x="940" y="310" />
-              <mxPoint x="940" y="305" />
+              <mxPoint x="1080" y="320" />
+              <mxPoint x="930" y="320" />
+              <mxPoint x="930" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -166,6 +166,12 @@
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="源数据版本更新" vertex="1">
           <mxGeometry height="30" width="60" x="378" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
+          <mxGeometry height="30" width="60" x="940" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="关系与 左侧虚线框相同" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
