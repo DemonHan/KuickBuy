@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RK2RYDco-IvM_a9WVP1H-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;article class=&quot;4ever-article&quot;&gt;&#xa;&lt;span data-type=&quot;text&quot;&gt;&lt;span data-type=&quot;leaf&quot; style=&quot;color:&quot;&gt;csdb_rel_task_dm&lt;/span&gt;&lt;/span&gt;&lt;/article&gt;&#xa;&#xa;" vertex="1">
-          <mxGeometry height="60" width="190" x="740" y="70" as="geometry" />
+          <mxGeometry height="60" width="190" x="760" y="70" as="geometry" />
         </mxCell>
         <mxCell id="RK2RYDco-IvM_a9WVP1H-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
           <mxGeometry height="30" width="60" x="670" y="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="-90" />
-              <mxPoint x="846" y="-90" />
+              <mxPoint x="866" y="-90" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:1" vertex="1">
           <mxGeometry height="30" width="60" x="910" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cT9poGujJnyBJYFujyta-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="data_module_id 和 dm_app_id 都存在的场景是&lt;br&gt;1、恢复、作废、替换" vertex="1">
+          <mxGeometry height="50" width="160" x="1270" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
