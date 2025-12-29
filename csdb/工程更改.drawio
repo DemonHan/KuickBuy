@@ -85,7 +85,7 @@
         <mxCell id="cT9poGujJnyBJYFujyta-13" edge="1" parent="1" source="cT9poGujJnyBJYFujyta-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="cT9poGujJnyBJYFujyta-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cT9poGujJnyBJYFujyta-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;br/&gt;&lt;span data-type=&quot;text&quot;&gt;csdb_rel_source_dm&lt;/span&gt;&lt;/article&gt;" vertex="1">
+        <mxCell id="cT9poGujJnyBJYFujyta-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;br&gt;&lt;span data-type=&quot;text&quot;&gt;csdb_rel_source_dm&lt;br&gt;（源数据与DM 关联关系）&lt;/span&gt;&lt;/article&gt;" vertex="1">
           <mxGeometry height="60" width="190" x="150" y="340" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
