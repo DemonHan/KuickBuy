@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
-          <mxGeometry height="170" width="430" x="450" y="180" as="geometry" />
+          <mxGeometry height="150" width="410" x="450" y="200" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-37" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" value="" vertex="1">
           <mxGeometry height="300" width="300" x="70" y="180" as="geometry" />
@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="csdb_revision_task_item&lt;br&gt;&lt;div&gt;评估项&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="470" y="210" as="geometry" />
+          <mxGeometry height="60" width="170" x="460" y="245" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
           <mxGeometry height="30" width="60" x="550" y="150" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry height="30" width="60" x="680" y="160" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;article class=&quot;4ever-article&quot;&gt;&lt;br/&gt;&lt;span data-type=&quot;text&quot;&gt;csdb_rel_dm_revision_item&lt;/span&gt;&lt;/article&gt;&lt;div&gt;评估项&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="680" y="260" as="geometry" />
+          <mxGeometry height="60" width="170" x="660" y="270" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="源数据版本更新" vertex="1">
           <mxGeometry height="30" width="60" x="378" y="230" as="geometry" />
