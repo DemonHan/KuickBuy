@@ -67,7 +67,7 @@
           <mxGeometry height="30" width="60" x="910" y="160" as="geometry" />
         </mxCell>
         <mxCell id="cT9poGujJnyBJYFujyta-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="data_module_id 和 dm_app_id 都存在的场景是&lt;br&gt;1、恢复、作废、替换" vertex="1">
-          <mxGeometry height="50" width="160" x="1270" y="90" as="geometry" />
+          <mxGeometry height="50" width="160" x="1250" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
