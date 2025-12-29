@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RK2RYDco-IvM_a9WVP1H-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;article class=&quot;4ever-article&quot;&gt;&#xa;&lt;span data-type=&quot;text&quot;&gt;&lt;span data-type=&quot;leaf&quot; style=&quot;color:&quot;&gt;csdb_rel_task_dm&lt;/span&gt;&lt;/span&gt;&lt;/article&gt;&#xa;&#xa;" vertex="1">
+        <mxCell id="RK2RYDco-IvM_a9WVP1H-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;article class=&quot;4ever-article&quot;&gt;&lt;br&gt;&lt;span data-type=&quot;text&quot;&gt;&lt;span data-type=&quot;leaf&quot; style=&quot;color:&quot;&gt;csdb_rel_task_dm&lt;/span&gt;&lt;/span&gt;&lt;/article&gt;&lt;br&gt;（评估单与DM 关联关系）" vertex="1">
           <mxGeometry height="60" width="190" x="760" y="70" as="geometry" />
         </mxCell>
         <mxCell id="RK2RYDco-IvM_a9WVP1H-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
